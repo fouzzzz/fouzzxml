@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<flowershop>
+<flower>
+   <item>2924 units</item>
+   <name>Rose</name> 
+</flower>
+
+<flower>
+    <item>4650 units</item>
+    <name>Tulip</name> 
+ </flower>
+
+ <flower>
+    <item>2146 units</item>
+    <name>Lily</name> 
+ </flower>
+
+ <flower>
+   <item>926 units</item>
+   <name></name> 
+</flower>
+
+<flower>
+    <item>0 units</item>
+    <name>Daffaodils</name> 
+ </flower>
+
+</flowershop>
